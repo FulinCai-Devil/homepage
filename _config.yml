@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
-title_separator          : "-"
+title                    : "About Fulin Cai"
+title_separator          : 
 name                     : &name "Fulin Cai"
 description              : &description "personal description"
 url                      : https://fulincai-devil.github.io/homepage/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
