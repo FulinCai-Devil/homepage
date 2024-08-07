@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Fulin Cai"
-  pronouns         : "he/him" # example: "she/her"  
+  pronouns         : # example: "she/her"  
   bio              : "Deep Learning, Biomedical Signal Processing, Audio/Image Recognition"
   location         : "Tempe, AZ, USA"
   employer         : "Arizona State University"
