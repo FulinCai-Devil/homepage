@@ -12,8 +12,9 @@ redirect_from:
 Education
 ======
 * Ph.D in Version Control Theory, Arizona State University, 2025 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Computer Engineering, Arizona State University, 2023
+* M.S. in Management Science and Engineering, Shenzhen University, 2019
+* B.S. in Information Management and Information System, Shenzhen University, 2016
 
 #Work experience
 ======
