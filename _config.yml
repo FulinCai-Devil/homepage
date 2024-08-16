@@ -21,7 +21,7 @@ repository               : "fulincai-devil.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "selfie.png"
   name             : "Fulin Cai"
   pronouns         : # example: "she/her"  
   bio              : "Deep Learning, Biomedical Signal Processing, Audio/Image Recognition"
