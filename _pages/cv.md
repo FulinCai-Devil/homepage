@@ -5,8 +5,6 @@ permalink: /cv/
 author_profile: true
 ---
 
-{% include base_path %}
-
 # Education
 * Ph.D in Computer Engineering, Arizona State University, 2025 (expected)
 * M.S. in Computer Engineering, Arizona State University, 2023
