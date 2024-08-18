@@ -16,10 +16,8 @@ Education
 
 Work Experience
 ======
-#* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * Graduate Research Assistant, ASU-Mayo Center for Innovative Imaging (AMCII), 2020 - Now
+  * Research Intern (2018 Tencent Rhino-Bird Elite Training Program), Tencent, 2018.07 - 2019.05
 
 Detailed CV can be downloaded from here
 
