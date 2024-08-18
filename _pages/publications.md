@@ -9,11 +9,11 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-## Refereed Publications in Journals
+### Refereed Publications in Journals
 ----
 [1] Fulin.Cai
 
-## Conference Papers/Presentations
+### Conference Papers/Presentations
 ----
 
 <!--
