@@ -17,6 +17,11 @@ main:
     
   - title: "CV"
     url: /cv/
+
+  - title: "Academic Service"
+    url: /academic_service/
     
   # - title: "Guide"
   #   url: /markdown/
+
+
