@@ -31,10 +31,3 @@ author_profile: true
   Shenzhen University <br>
   February 2017 – July 2019
   
-<!--
-{% include base_path %}
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
--->
