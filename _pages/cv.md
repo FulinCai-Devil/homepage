@@ -7,14 +7,14 @@ author_profile: true
 
 {% include base_path %}
 
-Education
+#Education
 ====
 * Ph.D in Computer Engineering, Arizona State University, 2025 (expected)
 * M.S. in Computer Engineering, Arizona State University, 2023
 * M.S. in Management Science and Engineering, Shenzhen University, 2019
 * B.S. in Information Management and Information System, Shenzhen University, 2016
 
-Work Experience
+#Work Experience
 ====
   * Graduate Research Assistant, ASU-Mayo Center for Innovative Imaging (AMCII), 2020 - Now
   * Research Intern (2018 Tencent Rhino-Bird Elite Training Program), Tencent, 2018.07 - 2019.05
