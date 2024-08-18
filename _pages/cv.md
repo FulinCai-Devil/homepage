@@ -14,7 +14,7 @@ Education
 * M.S. in Management Science and Engineering, Shenzhen University, 2019
 * B.S. in Information Management and Information System, Shenzhen University, 2016
 
-Work experience
+Work Experience
 ======
 #* Spring 2024: Academic Pages Collaborator
   * Github University
