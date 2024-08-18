@@ -16,6 +16,13 @@ Education
 * M.S. in Management Science and Engineering, Shenzhen University, 2019
 * B.S. in Information Management and Information System, Shenzhen University, 2016
 
+Work experience
+======
+#* Spring 2024: Academic Pages Collaborator
+  * Github University
+  * Duties includes: Updates and improvements to template
+  * Supervisor: The Users
+
 Detailed CV can be downloaded from here
 
 <!--
