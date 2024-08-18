@@ -1,10 +1,10 @@
-# main links links
+Bi# main links links
 main:
   - title: "Publications"
     url: /publications/  
     
-  - title: "CV"
-    url: /cv/
+  - title: "Biography"
+    url: /biography/
 
   - title: "Academic Service"
     url: /academic_service/
