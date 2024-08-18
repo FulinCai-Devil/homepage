@@ -16,6 +16,9 @@ Education
 * M.S. in Management Science and Engineering, Shenzhen University, 2019
 * B.S. in Information Management and Information System, Shenzhen University, 2016
 
+Detailed CV can be downloaded from here
+
+<!--
 #Work experience
 ======
 #* Spring 2024: Academic Pages Collaborator
@@ -63,3 +66,5 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
+
