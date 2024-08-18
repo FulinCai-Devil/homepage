@@ -17,13 +17,24 @@ author_profile: true
 
 ### Conference Papers/Presentations
 ----
-1. STRIDE: Systematic radar intelligence analysis for ADRD risk evaluation with gait signature simulation and deep learning
-Fulin Cai, Abhidnya Patharkar, Teresa Wu, Fleming Y.M. Lure, Harry Chen, and Victor C. Chen
+1.Radar Monitoring in Sleep Medicine <br>
+Victor M. Lubecke, Olga Borić-Lubecke, Mohammad Shadman Ishrak, Teresa Wu and **Fulin Cai** <br>
+16th International Conference on Advanced Technologies, Systems and Services in Telecommunications (TELSIKS), 2023
+
+2. STRIDE: Systematic radar intelligence analysis for ADRD risk evaluation with gait signature simulation and deep learning <br>
+**Fulin Cai**, Abhidnya Patharkar, Teresa Wu, Fleming Y.M. Lure, Harry Chen, and Victor C. Chen <br>
 Institute of Industrial and Systems Engineers (IISE) Annual Conference, 2023
 
-2. The Application of Artificial Intelligence on Radar Gait Signature for Walking Abnormality Detection
-Fulin Cai, Abhidnya Patharkar, Harry Chen, Teresa Wu, Fleming Y.M. Lure, Kewei Chen, and Victor C. Chen
+3. The Application of Artificial Intelligence on Radar Gait Signature for Walking Abnormality Detection <br>
+**Fulin Cai**, Abhidnya Patharkar, Harry Chen, Teresa Wu, Fleming Y.M. Lure, Kewei Chen, and Victor C. Chen<br>
 50th Annual Applied Imagery Pattern Recognition Workshop (virtual), 2021
+
+4. Radar Monitoring in Sleep Medicine <br>
+Victor M. Lubecke, Olga Borić-Lubecke, Mohammad Shadman Ishrak, Teresa Wu and **Fulin Cai** <br>
+16th International Conference on Advanced Technologies, Systems and Services in Telecommunications (TELSIKS), 2023
+
+
+5. 
 
 
 <!--
