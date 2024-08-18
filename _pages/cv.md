@@ -17,6 +17,7 @@ author_profile: true
 # Work Experience
 * Graduate Research Assistant, ASU-Mayo Center for Innovative Imaging (AMCII), 2020 - Now
 * Research Intern (2018 Tencent Rhino-Bird Elite Training Program), Tencent, 2018.07 - 2019.05
+  * Research topic: deep reinforcement learning in advertisement recommendation system
 
 ----
 A detailed CV is available upon request via email.
