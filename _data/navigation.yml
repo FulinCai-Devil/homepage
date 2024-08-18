@@ -5,7 +5,13 @@ main:
 
   # - title: "Talks"
   #   url: /talks/    
+    
+  - title: "CV"
+    url: /cv/
 
+  - title: "Academic Service"
+    url: /academic_service/
+    
   - title: "Teaching"
     url: /teaching/    
     
@@ -14,12 +20,6 @@ main:
         
   # - title: "Blog Posts"
   #   url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-
-  - title: "Academic Service"
-    url: /academic_service/
     
   # - title: "Guide"
   #   url: /markdown/
