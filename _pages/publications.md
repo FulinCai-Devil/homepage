@@ -17,7 +17,7 @@ author_profile: true
 
 ### Conference Papers/Presentations
 ----
-1.Radar Monitoring in Sleep Medicine <br>
+1. Radar Monitoring in Sleep Medicine <br>
 Victor M. Lubecke, Olga Borić-Lubecke, Mohammad Shadman Ishrak, Teresa Wu and **Fulin Cai** <br>
 16th International Conference on Advanced Technologies, Systems and Services in Telecommunications (TELSIKS), 2023
 
