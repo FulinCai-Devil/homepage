@@ -11,7 +11,7 @@ author_profile: true
 
 ### Refereed Publications in Journals
 ----
-1. E-BDL: Augmenting Radar Sensing via Enhanced Band-Dependent Learning and Contrast Framework <br>
+1. E-BDL: Enhanced band-dependent learning framework for augmented radar sensing<br>
 **Fulin Cai**, Teresa Wu, and Fleming Y. M. Lure <br>
 Sensors, 2024
 2. STRIDE: Systematic radar intelligence analysis for ADRD risk evaluation with gait signature simulation and deep learning <br>
@@ -38,31 +38,31 @@ Mathematical Problems in Engineering, 2018
 
 ### Conference Papers/Presentations
 ----
-1. Radar Monitoring in Sleep Medicine <br>
+1. Radar monitoring in sleep medicine <br>
 Victor M. Lubecke, Olga Borić-Lubecke, Mohammad Shadman Ishrak, Teresa Wu and **Fulin Cai** <br>
 16th International Conference on Advanced Technologies, Systems and Services in Telecommunications (TELSIKS), 2023
 2. STRIDE: Systematic radar intelligence analysis for ADRD risk evaluation with gait signature simulation and deep learning <br>
 **Fulin Cai**, Abhidnya Patharkar, Teresa Wu, Fleming Y. M. Lure, Harry Chen, and Victor C. Chen <br>
 Institute of Industrial and Systems Engineers (IISE) Annual Conference, 2023
-3. The Application of Artificial Intelligence on Radar Gait Signature for Walking Abnormality Detection <br>
+3. The application of artificial intelligence on radar gait signature for walking abnormality detection <br>
 **Fulin Cai**, Abhidnya Patharkar, Harry Chen, Teresa Wu, Fleming Y. M. Lure, Kewei Chen, and Victor C. Chen<br>
 50th Annual Applied Imagery Pattern Recognition Workshop (virtual), 2021
-4. Radar Monitoring in Sleep Medicine <br>
+4. Radar monitoring in sleep medicine <br>
 Victor M. Lubecke, Olga Borić-Lubecke, Mohammad Shadman Ishrak, Teresa Wu and **Fulin Cai** <br>
 16th International Conference on Advanced Technologies, Systems and Services in Telecommunications (TELSIKS), 2023
-5. Explore the Effects of Opinion Leader’s Characteristics and Information on Consumer’s Purchase Intention: Weibo Case <br>
+5. Explore the effects of opinion leader’s characteristics and information on consumer’s purchase intention: Weibo case <br>
 Li Li, Chen Chen, Wei Huang, Kangqiang Xie, and **Fulin Cai** <br>
 15th International Conference on Service Systems and Service Management (ICSSSM), 2018
-6. The Influence of Supply Chain Finance on Inventory Management Under Supply Uncertainty <br>
+6. The influence of supply chain finance on inventory management under supply uncertainty <br>
 Lijun Ma, Can Wang, Xiaoyi Su, and **Fulin Cai** <br>
 15th International Conference on Service Systems and Service Management (ICSSSM), 2018
 7. What motivates the reusing intention for SQA sites? - An expectation confirmation model with perceived value <br>
 Lijun Ma, Can Wang, Xiaoyi Su, **Fulin Cai**, and Meilin Lin <br>
 14th International Conference on Service Systems and Service Management (ICSSM), 2017
-8. Recommending PSO Variants Using Meta-Learning Framework for Global Optimization <br>
+8. Recommending PSO variants using meta-Learning framework for global optimization <br>
 Xianghua Chu, **Fulin Cai**, Jianshen Chen, and Li Li <br>
 International Conference on Simulated Evolution and Learning (SEAL), 2017
-9. Augmented Brain Storm Optimization with Mutation Strategies <br>
+9. Augmented brain storm optimization with mutation strategies <br>
 Xianghua Chu, Jianshen Chen, **Fulin Cai**, Chen Chen, and Ben Niu <br>
 International Conference on Simulated Evolution and Learning (SEAL), 2017
 
