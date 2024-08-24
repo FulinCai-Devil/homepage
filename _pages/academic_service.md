@@ -5,7 +5,7 @@ permalink: /academic_service/
 author_profile: true
 ---
 
-# Journal Reviewer
+# Reviewer for Peer-Reviewed Journals:
 ----
 1. Computers in Biology and Medicine
 2. Biomedical Signal Processing and Control
